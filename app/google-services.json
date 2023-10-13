@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723494270391",
+    "project_id": "login-register-1c8a4",
+    "storage_bucket": "login-register-1c8a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723494270391:android:31cc1baca9550f7b682432",
+        "android_client_info": {
+          "package_name": "com.example.examenuni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2NWG0XN6Odn8eyhsn3_E6bju0zXGdX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
